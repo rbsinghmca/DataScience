@@ -1,0 +1,39 @@
+1. Technology Primary
+Type of solution offered to the customers: 
+- ERP Implementation - Analytics 
+- Technical Business Solutions 
+- Legacy Modernization
+
+** As the technologies evolve, the company do not provide solution in cloud computing which are serving many problems to customers 
+like on-demands services for softwares which would save the money for customers.
+
+City
+Name of the city where the lead operates 
+- Chennai 
+- Mumbai 
+- Kolkata 
+- Bengaluru 
+- Delhi
+- Hyderabad 
+- Pune
+
+** Expand business in more cities
+
+B2B Sales Medium
+The medium used to sell the product 
+- Marketing 
+- Enterprise Sellers 
+- Online Leads 
+- Tele Sales 
+- Partners
+
+** Establish more partership
+
+
+Sales Velocity
+Number of days spent in the sales stage
+
+** Increase the number of days in sales to maximise sales.
+
+
+
